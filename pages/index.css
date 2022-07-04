@@ -1,0 +1,27 @@
+@import url(../blocks/page/page.css);
+@import url(../blocks/content/content.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__menu-link/header__menu-link.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_place/button_place_header.css);
+
+
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__author/lead__author.css);
+@import url(../blocks/lead/__description/lead__description.css);
+@import url(../blocks/lead/__title/lead__title.css);
+
+@import url(../blocks/figcaption/figcaption.css);
+@import url(../blocks/figcaption/__container/figcaption__container.css);
+@import url(../blocks/figcaption/__logo/figcaption__logo.css);
+@import url(../blocks/figcaption/__title/figcaption__title.css);
+
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/__items/table__items.css);
+@import url(../blocks/table/__item/table__item.css);
+@import url(../blocks/table/__image/table__image.css);

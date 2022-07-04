@@ -1,0 +1,7 @@
+.figcaption {
+  align-self: flex-end;
+  display: flex;
+  gap: 16px;
+  border: 1px solid white;
+  padding: 4px 40px 41px 0;
+}

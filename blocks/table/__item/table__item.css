@@ -1,0 +1,5 @@
+.table__item {
+ border: 1px solid rgb(255, 0, 0);
+ position: relative;
+ height: 600px;
+}
